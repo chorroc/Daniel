@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    text-decoration: none;
+}
+a:link{color: #AFAFAF;}
+a:visited{color: #AFAFAF;}
+a:hover{color: #ED5E29;}
+a:active{color: #AFAFAF;}
+
+header{
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    padding-top: 10em;
+    padding-left: 5em;
+}
+nav{
+    height: 100px;
+    background-color: #767676;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+nav ul{
+    width: 1100px;
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{}
+nav ul li a{
+    display: block;
+    width: 220px;
+    text-align: center;
+    font-family: "din-condensed", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 28px;
+    letter-spacing: -0.6px;
+}
+.con1{
+    position: absolute;
+    height: 100px;
+    width: 300px;
+    color: whitesmoke;
+    padding-top: 20px;
+    padding-left: 95px;
+    font-size: 4em;
+    text-align: center;
+}
+.con2{
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.con3{
+    position: absolute;
+}
+.con4{
+    position: absolute;
+    padding-top: 230px;
+    padding-left: 150px;
+}
+.con5{
+    position: absolute;
+    padding-left: 60px;
+    padding-top: 500px;
+}
+.con6{
+    position: absolute;
+    font-size: 1.5em;
+    padding-left: 62px;
+    padding-top: 510px;
+}
+.con7{
+    position: absolute;
+    font-size: 1.8em;
+    padding-top: 180px;
+    padding-left: 930px;
+}
+.con8{
+    background-color: rgba(235, 235, 230, 0.518);
+    height: 750px;
+}
+.con9{
+    padding-top: 110px;
+    padding-left: 10px;
+    position: absolute;
+}
+.con10{
+    position: absolute;
+    height: 100px;
+    width: 300px;
+    color: whitesmoke;
+    padding-top: 130px;
+    padding-left: 95px;
+    font-size: 3em;
+    text-align: center;
+}
+.con11{
+    padding-top: 100px;
+}
+.con12{
+    padding-top: 100px;
+}
+.con13{
+    position: absolute;
+    padding-top: 100px;
+}
+.con14{
+    position: absolute;
+    font-size: 2em;
+    padding-left: 1100px;
+    padding-top: 350px;
+}
